@@ -19,3 +19,15 @@
   margin-top: 8px;
   font-size: 14px;
 }
+
+.project-images {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.project-images img {
+  width: 100%;
+  max-width: 32%;
+  height: auto;
+}
